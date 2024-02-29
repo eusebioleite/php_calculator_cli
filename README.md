@@ -1,6 +1,6 @@
 # phpcalc
 
-phpcalc is a PHP Command Line Interface (CLI) application that performs arithmetic operations (addition, subtraction, multiplication, and division) on two numbers provided as command-line arguments.
+phpcalc is a simple CLI application that performs arithmetic operations (addition, subtraction, multiplication, and division) on two numbers provided as command-line arguments.
 
 ## Usage
 
